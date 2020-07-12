@@ -1,4 +1,4 @@
-[![Header Image](https://i.imgur.com/naz6M8j.gif)](https://ayberktandogan.github.io/)
+[![Header Image](https://i.imgur.com/8dlxJx5.gif)](https://ayberktandogan.github.io/)
 
 [FGL Çeviri Topluluğu](https://fgl.moe)'nda kurucu, ayrıca site ve encoder sorumlusuyum. FGL'den önce [PuzzleSubs Çeviri Grubu](https://puzzlesubs.com)'nda encoder sorumlusu olarak yer almıştım.
 
