@@ -8,7 +8,7 @@ Kodlamaya ilgim, eski grubum olan PuzzleSubs'un kullandığı forum yazılımın
 
 Gelecek dönemde **Front-end** teknolojilerle alakalı daha fazla şey öğrenerek, kariyerimi bu yönde kurmayı planlıyorum.
 
-### Spotify Now Playing 🎧
-[![Spotify](https://spotify-now-playing-github-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/c2048zqfp6fpakwa4wtoyjege)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayberktandogan&hide=issues,stars&show_icons=true&include_all_commits=true&theme=radical)
+
 
 Hakkımda daha ayrıntılı bilgiye [buradan](https://ayberktandogan.github.io/) ulaşabilirsiniz. Ayrıca benimle ayberk.tandogan@outlook.com mail adresi üzerinden iletişime geçebilirsiniz.
