@@ -8,4 +8,4 @@ My interest in coding started when the PHP forum software that we used for our g
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayberktandogan&hide=issues,stars&show_icons=true&include_all_commits=true&theme=radical)
 
-You can find more details about me from [here](https://ayberktandogan.github.io/). And you can also contact me from ayberk.tandogan@outlook.com.
+You can find more details about me from [here](https://ayberktandogan.github.io/en). And you can also contact me from ayberk.tandogan@outlook.com.
