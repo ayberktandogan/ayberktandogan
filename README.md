@@ -4,7 +4,7 @@
 
 Hi, I'm Ayberk. 👋
 
-My interest in coding started when the PHP forum software that we used for our group slowly stopped meeting our needs and we couldn't find an existing solution for these needs. We needed a custom one. So I started by learning **PHP** at first, didn't like it that much, and moved onto **JavaScript**, **NodeJS**, and **React**. After struggling for about 6 months, we started using the first version in our group. I didn't release that version on Github but after the second version, I started releasing every version from [this repo](https://github.com/ForFansubs). I still release new updates from time to time. Not regularly, but it's still an active project.
+My interest in coding started when the PHP forum software that we used for our group slowly stopped meeting our needs and we couldn't find an existing solution for these needs. We needed a custom one. So I started by learning **PHP** at first, didn't like it that much, and moved onto **JavaScript**, **NodeJS**, and **React**. After struggling for about 6 months, we started using the first version in our group. I didn't release that version on Github but after the second version, I started releasing every version from [this repo](https://github.com/ForFansubs). I still release new updates from time to time.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayberktandogan&hide=issues,stars&show_icons=true&include_all_commits=true&theme=radical)
 
