@@ -1,4 +1,3 @@
-[![ayberktandogan](https://github.com/ayberktandogan/ayberktandogan/blob/master/images/githubcard.png?raw=true)](https://ayberktandogan.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayberk-tandogan/) [![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13009248/ayberk-tando%c4%9fan) [![Codecademy](https://img.shields.io/badge/Codecademy-%231F4056.svg?&style=for-the-badge&logoColor=white&logo=codecademy)](https://www.codecademy.com/profiles/ayberktandogan)
 
